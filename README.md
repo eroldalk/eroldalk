@@ -26,7 +26,45 @@
 
 
 
+
 <!--
+
+
+
+<div align="center" >
+  <details>
+<a  href="https://github.com/SP-XD">
+
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/3-stats.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg" width="32.5%">
+<img src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg" width="32.5%">
+
+</a>
+
+
+  <summary>More stats</summary>
+  
+<img align="center" src="https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/0-profile-details.svg" >
+
+</details>
+
+
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[![Spotify](https://eroldalk-3jjg2hwxd-eroldalk.vercel.app/api/spotify)](https://open.spotify.com/user/eroldalk)
 &nbsp;<div align="center">
   [![Spotify](https://eroldalk.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ecfi5o20f9f10jpfy11wgubr8)
 </div>
