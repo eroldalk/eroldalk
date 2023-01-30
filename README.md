@@ -23,9 +23,12 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
+[![trophy]( https://github-profile-trophy.vercel.app/?username=eroldalk&theme=apprentice&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
+  
+ 
+  
+  
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eroldalk&show_icons=true&bg_color=00000000)
 
@@ -51,23 +54,16 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
 [![Spotify](https://eroldalk-3jjg2hwxd-eroldalk.vercel.app/api/spotify)](https://open.spotify.com/user/eroldalk)
 &nbsp;<div align="center">
   [![Spotify](https://eroldalk.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ecfi5o20f9f10jpfy11wgubr8)
 </div>
 -->
+  
+  
+  
+  
+  
 <br>
 
 <hr/>
