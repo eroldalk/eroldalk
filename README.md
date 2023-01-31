@@ -86,5 +86,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <br> <br> <br> 
   
-  ![snake gif](https://github.com/musauyumaz/musauyumaz/blob/output/github-contribution-grid-snake-dark.svg)
+  ![snake gif](https://github.com/eroldalk/eroldalk/blob/main/assets/snake.svg)
+  
+  
 <!-- <img src="https://github.com/eroldalk/eroldalk/blob/main/assets/dino_rounded.gif" href="https://github.com/eroldalk" alt="dino"  width="80%"/><br> -->
