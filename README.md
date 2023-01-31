@@ -4,15 +4,26 @@
 <img src="https://github.com/eroldalk/eroldalk/blob/main/assets/devops.gif" href="https://github.com/eroldalk" alt="CoDiNg RocKs"  width="60%"/><br> 
   
 <hr/>
-
+  
+  ### Social Media:
+  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eroldalkilic/)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)]()
+ 
+  <hr/>
+ 
+ ### Languages and Tools: 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
@@ -26,10 +37,15 @@
 [![trophy]( https://github-profile-trophy.vercel.app/?username=eroldalk&theme=apprentice&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
   
- 
+
+
   
   
 <!--
+ 
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eroldalk&show_icons=true&bg_color=00000000)](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eroldalk&show_icons=true&bg_color=00000000)
 
 
@@ -69,4 +85,6 @@
 <hr/>
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 <br> <br> <br> 
-<img src="https://github.com/eroldalk/eroldalk/blob/main/assets/dino_rounded.gif" href="https://github.com/eroldalk" alt="dino"  width="80%"/><br> 
+  
+  ![snake gif](https://github.com/musauyumaz/musauyumaz/blob/output/github-contribution-grid-snake-dark.svg)
+<!-- <img src="https://github.com/eroldalk/eroldalk/blob/main/assets/dino_rounded.gif" href="https://github.com/eroldalk" alt="dino"  width="80%"/><br> -->
