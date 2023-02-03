@@ -34,7 +34,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 
-[![trophy]( https://github-profile-trophy.vercel.app/?username=eroldalk&theme=apprentice&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
 
   
 
@@ -42,7 +42,9 @@
   
   
 <!--
- 
+ [![trophy]( https://github-profile-trophy.vercel.app/?username=eroldalk&theme=apprentice&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+
+
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eroldalk&show_icons=true&bg_color=00000000)](https://raw.githubusercontent.com/SP-XD/profile-summary-cards/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)
 
 
