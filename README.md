@@ -1,7 +1,7 @@
 <div align="center" width="50">
 
 <img src="https://github.com/eroldalk/eroldalk/blob/5c6abd18954ba11e9290c97fd632d09a3bb168db/assets/cold,%20smooth.gif" href="https://github.com/eroldalk" alt="Hello Coders" width="70%"/> <br>
-<img src="https://github.com/eroldalk/eroldalk/blob/main/assets/devops.gif" href="https://github.com/eroldalk" alt="CoDiNg RocKs"  width="60%"/><br> 
+<!--<img src="https://github.com/eroldalk/eroldalk/blob/main/assets/devops.gif" href="https://github.com/eroldalk" alt="CoDiNg RocKs"  width="60%"/><br> -->
   
 <hr/>
   
